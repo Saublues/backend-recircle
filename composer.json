@@ -14,7 +14,9 @@
         "laravel/tinker": "^2.10.1",
         "midtrans/midtrans-php": "*",
         "mongodb/laravel-mongodb": "^5.7",
-        "tightenco/ziggy": "^2.0"
+        "tightenco/ziggy": "^2.0",
+        "ext-mongodb": "^2.3"
+
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
